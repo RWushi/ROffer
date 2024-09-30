@@ -1,9 +1,0 @@
-twilio==9.2.4
-python-dotenv==1.0.1
-fastapi==0.112.2
-uvicorn==0.30.6
-python-multipart==0.0.9
-openai==1.42.0
-python-docx==1.1.2
-aiohttp==3.10.5
-asyncpg==0.29.0
